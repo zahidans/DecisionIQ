@@ -1,6 +1,9 @@
 # 🧠 DecisionIQ
 
-![DecisionIQ Homepage](pic1.jpg)
+
+![DecisionIQ]()
+
+### **Think Less. Decide Better.**
 
 ## Why DecisionIQ?
 Most AI tools simply give you an answer.
