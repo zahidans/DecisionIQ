@@ -1,7 +1,7 @@
 # 🧠 DecisionIQ
 
 
-![DecisionIQ](pic.jpeg)
+![DecisionIQ](https://github.com/zahidans/DecisionIQ/blob/main/pic1.jpeg)
 
 ### **Think Less. Decide Better.**
 
