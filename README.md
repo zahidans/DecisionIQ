@@ -1,7 +1,7 @@
 # 🧠 DecisionIQ
 
 
-![DecisionIQ]()
+![DecisionIQ](pic.jpeg)
 
 ### **Think Less. Decide Better.**
 
