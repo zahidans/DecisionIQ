@@ -1,0 +1,51 @@
+# Environment / secrets — never commit real values
+.env
+.env.*
+!.env.example
+
+# Node / frontend
+node_modules/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+.turbo/
+
+# Python / backend
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+
+# Coverage
+coverage/
+.coverage
+htmlcov/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Database
+*.sqlite3
+postgres_data/
+pgdata/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build artifacts / zips
+*.zip
+
+# Misc
+.cache/
